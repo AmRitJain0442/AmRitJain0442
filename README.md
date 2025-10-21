@@ -8,13 +8,13 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=ethanw2457&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanw2457&layout=compact&theme=radical" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=AmRitJain0442&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmRitJain0442&layout=compact&theme=radical" />
 </div>
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"><img src="https://wakatime.com/badge/user/75d58da1-1cd8-4ee5-940d-ff5b536c346e.svg" alt="Total time coded since May 1 2024" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmRitJain0442&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"><img src="https://wakatime.com/badge/user/75d58da1-1cd8-4ee5-940d-ff5b536c346e.svg" alt="Total time coded since May 1 2024" /></a> </p>
 <br>
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
