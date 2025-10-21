@@ -19,7 +19,7 @@
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
 
-## Languages:
+<!--## Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,7 +47,7 @@
 -->
 <br>
 
-## Tools and Frameworks:
+<!--## Tools and Frameworks:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -103,7 +103,7 @@
 -->
 <br>
 
-## Learning:
+<!--## Learning:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-%23000000.svg?style=for-the-badge&logo=oauth&logoColor=white)
