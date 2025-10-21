@@ -45,7 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 </div>
 -->
-<br>
 
 <!--## Tools and Frameworks:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -101,7 +100,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 -->
-<br>
+
 
 <!--## Learning:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
