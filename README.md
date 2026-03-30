@@ -149,7 +149,3 @@
 </p>
  
   
-<div align="left">
-  <h2>Contribution Chart</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
