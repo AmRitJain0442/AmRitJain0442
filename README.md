@@ -1,21 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B+I'm+Amrit+Lahari;A+Developer+%26+Lifelong+Learner;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=900&height=80&lines=Hi+I'm+Amrit+Lahari;A+Developer+%26+Lifelong+Learner;Building+things+that+matter)](https://git.io/typing-svg)
 
-<h3>🌬️ "When the change of wind blows, some people build walls, others build windmills"</h3>
+<h3>"When the change of wind blows, some people build walls, others build windmills"</h3>
 <sub>— Giorgio Giangiulio</sub>
 
 <br>
 
 <a href="https://www.linkedin.com/in/amrit-lahari/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:f20230442@pilani.bits-pilani.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<img src="https://komarev.com/ghpvc/?username=AmRitJain0442&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AmRitJain0442&label=Profile%20views&color=BD93F9&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class Amrit:
@@ -35,15 +35,15 @@ me = Amrit()
 me.say_hi()
 ```
 
-- 🔭 I'm currently working on **web & ML projects**
-- 🌱 I'm continuously learning **new technologies and frameworks**
-- 👯 I'm open to **collaborating on interesting open-source projects**
-- 💬 Ask me about **Python, JavaScript, React, and all things code**
-- ⚡ Fun fact: I believe the best way to learn is to **build**
+- Currently working on **web & ML projects**
+- Continuously learning **new technologies and frameworks**
+- Open to **collaborating on interesting open-source projects**
+- Ask me about **Python, JavaScript, React, and all things code**
+- I believe the best way to learn is to **build**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -75,22 +75,22 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmRitJain0442&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amrit's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmRitJain0442&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmRitJain0442&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Amrit's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmRitJain0442&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 
 <br>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=AmRitJain0442&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=AmRitJain0442&theme=dracula&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 <div align="center">
 
-### ✨ Thanks for visiting — feel free to connect! ✨
+### Thanks for visiting — feel free to connect!
 
 <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"><img src="https://wakatime.com/badge/user/75d58da1-1cd8-4ee5-940d-ff5b536c346e.svg" alt="Total time coded since May 1 2024" /></a>
 
