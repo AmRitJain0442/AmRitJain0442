@@ -191,30 +191,6 @@ PyTorch      █████████████░░░░░░░   65%
 01001100 01000101 01000001 01010010 01001110
 ```
 
----
-
-## `> github --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmRitJain0442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=7C3AED" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmRitJain0442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" />
-
-</div>
-
----
-
-## `> github --streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AmRitJain0442&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=7C3AED&currStreakLabel=00FF88" />
-
-</div>
-
----
-
 ## `> git contributions --graph`
 
 <div align="center">
