@@ -168,21 +168,9 @@ PyTorch      █████████████░░░░░░░   65%
 
 ---
 
-## `> ./hacker_mode --ascii`
 
-```txt
-                .-') _     ('-.     _   .-')       ('-. .-. 
-               (  OO) )   ( OO ).-.( '.( OO )_    ( OO )  / 
-   ,------. ,--./ ,--,'    / . --. / ,--.   ,--.)  ,--. ,--. 
-('-| _.---' |   \ |  |\    | \-.  \  |   `.'   |   |  | |  | 
-(OO|(_\     |    \|  | ) .-'-'  |  | |         |   |   .|  | 
-/  |  '--.  |  .     |/   \| |_.'  | |  |'.'|  |   |       | 
-\_)|  .--'  |  |\    |     |  .-.  | |  |   |  |   |  .-.  | 
-  \|  |_)   |  | \   |     |  | |  | |  |   |  |   |  | |  | 
-   `--'     `--'  `--'     `--' `--' `--'   `--'   `--' `--' 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmRitJain0442&theme=github-compact&custom_title=My%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-        [ ACCESS GRANTED ]  [ ROOT MODE: OFF ]  [ BUILD MODE: ON ]
-```
 
 ```txt
 01000010 01010101 01001001 01001100 01000100
