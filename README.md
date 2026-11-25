@@ -7,51 +7,9 @@
 
 ---
 
-```txt
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   █████╗ ███╗   ███╗██████╗ ██╗████████╗                                     │
-│  ██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝                                     │
-│  ███████║██╔████╔██║██████╔╝██║   ██║                                        │
-│  ██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║                                        │
-│  ██║  ██║██║ ╚═╝ ██║██║  ██║██║   ██║                                        │
-│  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝                                        │
-│                                                                              │
-│                    system online  ·  access granted                          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
 ```bash
 amrit@github:~$ ./init_profile.sh
 ```
-
-```txt
-[ OK ] identity loaded
-[ OK ] developer environment detected
-[ OK ] caffeine levels acceptable
-[ OK ] curiosity module active
-[ OK ] build mode enabled
-```
-
----
-
-## `> whoami`
-
-```txt
-┌─[ amrit@github ]───────────────────────────────────────────────[ profile ]─┐
-│                                                                            │
-│  name      :  Amrit Lahari                                                 │
-│  role      :  Developer · Builder · Problem Solver                         │
-│  study     :  BITS Pilani                                                  │
-│  stack     :  Python · Java · JavaScript · TypeScript · Solidity           │
-│  focus     :  Full-Stack Web · Machine Learning · Blockchain               │
-│  mindset   :  build → break → debug → learn                                │
-│  mail      :  f20230442@pilani.bits-pilani.ac.in                           │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## `> cat about.txt`
@@ -79,17 +37,6 @@ Always open to collaboration, open-source work, and ambitious ideas.
 
 ---
 
-## `> tech --languages`
-
-```txt
-Python       ███████████████████░   95%
-JavaScript   ██████████████████░░   88%
-Java         ████████████████░░░░   82%
-TypeScript   ████████████████░░░░   80%
-C++          █████████████░░░░░░░   65%
-Solidity     ████████████░░░░░░░░   60%
-```
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-00FF88?style=for-the-badge\&logo=python\&logoColor=0d1117)
@@ -100,19 +47,6 @@ Solidity     ████████████░░░░░░░░   60%
 ![Solidity](https://img.shields.io/badge/Solidity-181717?style=for-the-badge\&logo=solidity\&logoColor=white)
 
 </div>
-
----
-
-## `> tech --frameworks`
-
-```txt
-React        ██████████████████░░   90%
-TailwindCSS  █████████████████░░░   85%
-Node.js      ████████████████░░░░   82%
-Next.js      ████████████████░░░░   80%
-Flask        ██████████████░░░░░░   70%
-PyTorch      █████████████░░░░░░░   65%
-```
 
 <div align="center">
 
@@ -126,18 +60,6 @@ PyTorch      █████████████░░░░░░░   65%
 </div>
 
 ---
-
-## `> tech --tools`
-
-```txt
-┌─[ tools.config ]────────────────────────────────────────────────────────────┐
-│                                                                            │
-│  Git        GitHub       Docker       Vite          VS Code                 │
-│  Postman    Linux        MongoDB      MySQL         Firebase                │
-│  AWS        Vercel       OpenCV       APIs          CLI                     │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
